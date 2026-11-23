@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "no-reduced-debug-info",
+	"version": "${version}",
+	"name": "No reducedDebugInfo",
+	"description": "This mod disables the reducedDebugInfo/reduced_debug_info gamerule",
+	"authors": [
+		"JohnnyCena1234"
+	],
+	"contact": {
+		"homepage": "TODO",
+		"sources": "https://github.com/JohnnyCena123/no-reduced-debug-info"
+	},
+	"license": "MIT",
+	"icon": "assets/no-reduced-debug-info/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"johnnycena.noreduceddebuginfo.NoReducedDebugInfo"
+		]
+	},
+	"mixins": [
+		"no-reduced-debug-info.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": ">=1.8",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
