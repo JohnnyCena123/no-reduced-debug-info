@@ -14,7 +14,7 @@
 	},
 	"license": "MIT",
 	"icon": "assets/no-reduced-debug-info/icon.png",
-	"environment": "*",
+	"environment": "client",
 	"entrypoints": {
 		"main": [
 			"johnnycena.noreduceddebuginfo.NoReducedDebugInfo"
