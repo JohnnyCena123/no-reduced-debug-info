@@ -9,7 +9,8 @@
 	],
 	"contact": {
 		"homepage": "https://modrinth.com/project/EilF8cy7",
-		"sources": "https://github.com/JohnnyCena123/no-reduced-debug-info"
+		"sources": "https://github.com/JohnnyCena123/no-reduced-debug-info",
+		"issues": "https://github.com/JohnnyCena123/no-reduced-debug-info/issues"
 	},
 	"license": "MIT",
 	"icon": "assets/no-reduced-debug-info/icon.png",
